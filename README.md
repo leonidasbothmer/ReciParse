@@ -1,9 +1,8 @@
-# ReciParse
+# 🌯 ReciParse
 
 ### 🎯 Create Step by Step Guides from unstructured German Cooking Recipes
 
-🌐💯🖥
-
+### 🌐 www.reciparse.de
 
 ### Abstract
 
